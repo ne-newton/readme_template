@@ -14,7 +14,7 @@ This book is available under the [{license}](https://github.com/openstax/content
 If you would like to support the creation of free textbooks for students, your [donations are welcome](https://riceconnect.rice.edu/donation/support-openstax-banner).
 
 ## Senior Contributing Authors
-{{ senior contributing author section from: https://openstax.org/details/books/{book_slug} }}
+{{ senior contributing authors can be found in CNXML }}
 
 ## Contributing Authors (optional)
-{{ contributing author section from: https://openstax.org/details/books/{book_slug} }}
+{{ contributing authors can be found in CNXML }}
