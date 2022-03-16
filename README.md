@@ -1,6 +1,6 @@
 # {book_title}
 
-_{book_title}_ is a textbook book published by [OpenStax](https://openstax.org/), a non profit organization that is part of [Rice University](https://www.rice.edu/).
+_{book_title}_ is a textbook published by [OpenStax](https://openstax.org/), a non profit organization that is part of [Rice University](https://www.rice.edu/).
 
 The book can be viewed [online](https://openstax.org/details/books/{book_slug}) and as a [pdf](https://assets.openstax.org/oscms-prodcms/media/documents/###.pdf).
 
